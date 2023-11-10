@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner{
+    background-image: url(Pictures/Hanging\ Banner.png);
+    height: 125px;
+    position: relative;
+}
+
+.left{
+    margin: 5px;
+    padding: 15px;
+    border: none;
+    text-align: left;
+    width: 100%;
+    border-radius: 10px;
+    display: inline;
+}
+
+.left a{
+    display: block;
+}
+
+.text{
+    position: absolute;
+    left: 30%;
+    right: 30%;
+}
+.right{
+    margin: 5px;
+    padding: 15px;
+    border: none;
+    text-align: right;
+    width: 100%;
+    border-radius: 10px;
+    display: inline;
+}
+
+.right a{
+    display: block;
+}
+
+.pic{
+    text-align: center;
+}
